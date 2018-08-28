@@ -3,6 +3,14 @@ import numpy as np
 import pickle
 import my_functions
 
+
+#-------------------------
+# Gabin L.
+# gabin.laurent@u-psud.fr
+#-------------------------
+
+
+
 # This code :
 # 1. Plots histogramms of the distribution of jet streams latitude over a time period
 #    for preindustrial and postindustrial periods on same graphs for all regions

@@ -6,6 +6,12 @@ from pressure_interpolation import interpolate_wrapper as pressure_interpolate
 import pickle
 import my_functions
 
+#-------------------------
+# Gabin L.
+# gabin.laurent@u-psud.fr
+#-------------------------
+
+
 # This code helps to locate polar and subtropical jet streams, with a method
 # proposed by Tim Woollings in 2010.
 # It only works if the variable used is 'ua' (see line number 89 of the code),

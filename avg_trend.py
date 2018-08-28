@@ -3,6 +3,13 @@ import pickle
 import os
 import numpy as np
 
+#-------------------------
+# Gabin L.
+# gabin.laurent@u-psud.fr
+#-------------------------
+
+
+
 def process_variable_mean_test():
     """	Process analysis for different models
 	You can choose differents models or different

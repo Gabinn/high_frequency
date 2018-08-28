@@ -19,6 +19,13 @@ from pressure_interpolation import interpolate_wrapper as pressure_interpolate
 import pickle
 import matplotlib
 
+
+#-------------------------
+# Gabin L.
+# gabin.laurent@u-psud.fr
+#-------------------------
+
+
 # This code can plot a map with variable values
 # Parameters of the analysed model.
 model = 'GFDL-ESM2M'

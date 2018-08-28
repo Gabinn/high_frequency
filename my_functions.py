@@ -1,6 +1,12 @@
 import numpy as np
 import pickle
 
+#-------------------------
+# Gabin L.
+# gabin.laurent@u-psud.fr
+#-------------------------
+
+
 """ All functions used for the high analysis frequency process"""
 
 """ Computes average for DAILY DATA for winter """

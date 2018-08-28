@@ -19,6 +19,12 @@ from pressure_interpolation import interpolate_wrapper as pressure_interpolate
 import pickle
 import matplotlib
 
+
+#-------------------------
+# Gabin L.
+# gabin.laurent@u-psud.fr
+#-------------------------
+
 # This code can plot a map of the difference between postindustrial and preindustrial
 # value of a variable (postindustrial - preindustrial)
 # Parameters of the analysed model.

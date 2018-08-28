@@ -6,6 +6,14 @@ from pressure_interpolation import interpolate_wrapper as pressure_interpolate
 import pickle
 import my_functions
 
+
+#-------------------------
+# Gabin L.
+# gabin.laurent@u-psud.fr
+#-------------------------
+
+
+
 # This code computes average for Summer (JJA) and Winter (DJF) season over a specified
 # time period. An annual average is also computed. You need to specify the time scale,
 # and precise the number of files that correspond to this time scale.
