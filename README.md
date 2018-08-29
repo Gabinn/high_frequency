@@ -5,7 +5,7 @@ Do not hesitate to contact me if you have any queries, at gabin.laurent@u-psud.f
 
 IMPORTANT
 -
-To run these codes, they should be in the "analysis" repository of codes written By Alex Khun Regnier that are available if you have a granted acces to his GitHub repository "storm_tracks". This is crucial as the codes here imports some of his codes. You should put those files in the "analysis" repository.  
+To run these codes, they should be in the "analysis" repository of codes written By Alexander Kuhn Regnier that are available if you have a granted acces to his GitHub repository "storm_tracks". This is crucial as the codes here imports some of his codes. You should put those files in the "analysis" repository.  
 Please note that these codes were written for the GFDL-ESM2M model, then in "my_functions.py" the precision of this model is used to track jet stream. You may have to change this a little bit. You may also encounter some problems if pressure levels are not define in the same way, and if you are not using daily data (at least for the jet stream tracking).
 
 Code description
